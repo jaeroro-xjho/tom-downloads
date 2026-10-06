@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "minimumSupportedVersion": "3.4.2",
+  "minimumSupportedVersion": "3.4.3",
   "blockedVersions": [],
   "blockedRanges": [],
-  "message": "반복 업무 완료 처리 오류를 수정한 필수 업데이트입니다. 최신 버전으로 업데이트해 주세요.",
+  "message": "최신 버전으로 업데이트가 필요합니다. 치명적인 오류로 업데이트가 필수입니다. 업데이트를 진행하지 않으면 사용할 수 없습니다.",
   "updatedAt": "2026-10-06"
 }
